@@ -11,3 +11,13 @@ carrots
 apple
 banana
 wine
+meat
+chease
+cheese
+steak
+pork
+pencil
+paper
+ruler
+notepad
+pen
